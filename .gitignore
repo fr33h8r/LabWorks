@@ -1,3 +1,10 @@
+#Project non-neccessary files
+*.*sdf
+*[Dd]ebug/
+
+#Resharper
+*.DotSettings
+
 # Compiled Object files
 *.slo
 *.lo
