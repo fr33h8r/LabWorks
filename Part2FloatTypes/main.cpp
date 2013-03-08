@@ -1,5 +1,3 @@
-#include <iostream>
-
 void main()
 {
 	float floatNumber1 = (float)-0.002345087;
