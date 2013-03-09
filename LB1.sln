@@ -16,6 +16,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3ArithmeticOps", "Part3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part4BitOps", "Part4BitOps\Part4BitOps.vcxproj", "{79329D4D-CEE9-4E39-AFCE-31DD05C2DBB8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part5LogicOps", "Part5LogicOps\Part5LogicOps.vcxproj", "{9279D236-BE99-4EB2-90D7-6F1E150221C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -38,6 +40,10 @@ Global
 		{79329D4D-CEE9-4E39-AFCE-31DD05C2DBB8}.Debug|Win32.Build.0 = Debug|Win32
 		{79329D4D-CEE9-4E39-AFCE-31DD05C2DBB8}.Release|Win32.ActiveCfg = Release|Win32
 		{79329D4D-CEE9-4E39-AFCE-31DD05C2DBB8}.Release|Win32.Build.0 = Release|Win32
+		{9279D236-BE99-4EB2-90D7-6F1E150221C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9279D236-BE99-4EB2-90D7-6F1E150221C8}.Debug|Win32.Build.0 = Debug|Win32
+		{9279D236-BE99-4EB2-90D7-6F1E150221C8}.Release|Win32.ActiveCfg = Release|Win32
+		{9279D236-BE99-4EB2-90D7-6F1E150221C8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
