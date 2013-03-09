@@ -1,4 +1,3 @@
-#include <iostream>
 void main()
 {
 	int a1 = 17;
@@ -15,5 +14,4 @@ void main()
 	int d = 56;
 
 	res = !(a || b) >= (!(c == d)); //false
-	std::cout<<res;
 }
