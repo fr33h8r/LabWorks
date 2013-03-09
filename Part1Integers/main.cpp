@@ -1,5 +1,13 @@
 typedef unsigned char byte;
 
+void Part1Integers();
+void Part2FloatTypes();
+void Part3ArithmeticOps();
+void Part4BitOps();
+void Part5LogicOps();
+void Part6ExploringPointers();
+void Part7ExploringChars();
+
 void main()
 {
 	Part1Integers();
@@ -8,6 +16,7 @@ void main()
 	Part4BitOps();
 	Part5LogicOps();
 	Part6ExploringPointers();
+	Part7ExploringChars();
 }
 
 void Part1Integers()
@@ -45,7 +54,7 @@ void Part2FloatTypes()
 	float floatNumber3 = (float)786.32E+54;
 
 	double doubleNumber1 = -0.357E+52;
-	double doubleNumber2 = -49.465E+104125;
+	//double doubleNumber2 = -49.465E+104125;
 }
 
 void Part3ArithmeticOps()
@@ -175,4 +184,16 @@ void Part6ExploringPointers()
 	int &refIntNum = intNum;
 	float &refFloatNum = floatNum;
 	double &refDoubleNum = doubleNum;
+}
+
+#include <iostream>
+void Part7ExploringChars()
+{
+	char c1 = 'V';
+	char c2 = '|';
+	char c3 = '3';
+
+	char c4 = 0x14;
+	char c5 = 0x5e;
+	char c6 = 0x2e;
 }
