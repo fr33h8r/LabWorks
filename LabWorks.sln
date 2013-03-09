@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{132FD6
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork1", "Part1Integers\Part1Integers.vcxproj", "{578BAEF9-8129-4B95-8C60-9E884325EE9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork2", "LabWork2\LabWork2.vcxproj", "{BFA62E11-0D36-425A-84A1-FB94DF1123A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -20,6 +22,10 @@ Global
 		{578BAEF9-8129-4B95-8C60-9E884325EE9D}.Debug|Win32.Build.0 = Debug|Win32
 		{578BAEF9-8129-4B95-8C60-9E884325EE9D}.Release|Win32.ActiveCfg = Release|Win32
 		{578BAEF9-8129-4B95-8C60-9E884325EE9D}.Release|Win32.Build.0 = Release|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Debug|Win32.Build.0 = Debug|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Release|Win32.ActiveCfg = Release|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
