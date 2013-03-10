@@ -56,9 +56,4 @@ void Part2()
 		}
 		newArr[i] = tmpSum / negativeCounter;
 	}
-
-	for (int i = 0; i < rows; i++)
-	{
-		std::cout<<newArr[i]<<std::endl;
-	}
 }
