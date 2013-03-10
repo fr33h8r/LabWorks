@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{132FD69F-9FB4-4834-954C-A6C0B90A90A3}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork2", "LabWork2\LabWork2.vcxproj", "{BFA62E11-0D36-425A-84A1-FB94DF1123A8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork3", "LabWork3\LabWork3.vcxproj", "{F3D8D67A-914B-4B19-A1AF-985CFFE92379}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork4", "LabWork4\LabWork4.vcxproj", "{15ACAA39-13A9-42CC-B435-F4B273CEAB47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork5", "LabWork5\LabWork5.vcxproj", "{9CE1FA7A-DCA3-4BBF-BCEA-AE9A07549F2F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork6", "LabWork6\LabWork6.vcxproj", "{CA4214B1-3C23-4B3C-B32E-AA7EEAC07565}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlWork", "ControlWork\ControlWork.vcxproj", "{52423B28-597E-4C8C-A5C4-AC4F2313C064}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabWork1", "LabWork1\LabWork1.vcxproj", "{DC31E8A5-A0BC-41CE-A2C0-722B5A24FF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Debug|Win32.Build.0 = Debug|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Release|Win32.ActiveCfg = Release|Win32
+		{BFA62E11-0D36-425A-84A1-FB94DF1123A8}.Release|Win32.Build.0 = Release|Win32
+		{F3D8D67A-914B-4B19-A1AF-985CFFE92379}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3D8D67A-914B-4B19-A1AF-985CFFE92379}.Debug|Win32.Build.0 = Debug|Win32
+		{F3D8D67A-914B-4B19-A1AF-985CFFE92379}.Release|Win32.ActiveCfg = Release|Win32
+		{F3D8D67A-914B-4B19-A1AF-985CFFE92379}.Release|Win32.Build.0 = Release|Win32
+		{15ACAA39-13A9-42CC-B435-F4B273CEAB47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15ACAA39-13A9-42CC-B435-F4B273CEAB47}.Debug|Win32.Build.0 = Debug|Win32
+		{15ACAA39-13A9-42CC-B435-F4B273CEAB47}.Release|Win32.ActiveCfg = Release|Win32
+		{15ACAA39-13A9-42CC-B435-F4B273CEAB47}.Release|Win32.Build.0 = Release|Win32
+		{9CE1FA7A-DCA3-4BBF-BCEA-AE9A07549F2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CE1FA7A-DCA3-4BBF-BCEA-AE9A07549F2F}.Debug|Win32.Build.0 = Debug|Win32
+		{9CE1FA7A-DCA3-4BBF-BCEA-AE9A07549F2F}.Release|Win32.ActiveCfg = Release|Win32
+		{9CE1FA7A-DCA3-4BBF-BCEA-AE9A07549F2F}.Release|Win32.Build.0 = Release|Win32
+		{CA4214B1-3C23-4B3C-B32E-AA7EEAC07565}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA4214B1-3C23-4B3C-B32E-AA7EEAC07565}.Debug|Win32.Build.0 = Debug|Win32
+		{CA4214B1-3C23-4B3C-B32E-AA7EEAC07565}.Release|Win32.ActiveCfg = Release|Win32
+		{CA4214B1-3C23-4B3C-B32E-AA7EEAC07565}.Release|Win32.Build.0 = Release|Win32
+		{52423B28-597E-4C8C-A5C4-AC4F2313C064}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52423B28-597E-4C8C-A5C4-AC4F2313C064}.Debug|Win32.Build.0 = Debug|Win32
+		{52423B28-597E-4C8C-A5C4-AC4F2313C064}.Release|Win32.ActiveCfg = Release|Win32
+		{52423B28-597E-4C8C-A5C4-AC4F2313C064}.Release|Win32.Build.0 = Release|Win32
+		{DC31E8A5-A0BC-41CE-A2C0-722B5A24FF34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC31E8A5-A0BC-41CE-A2C0-722B5A24FF34}.Debug|Win32.Build.0 = Debug|Win32
+		{DC31E8A5-A0BC-41CE-A2C0-722B5A24FF34}.Release|Win32.ActiveCfg = Release|Win32
+		{DC31E8A5-A0BC-41CE-A2C0-722B5A24FF34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
