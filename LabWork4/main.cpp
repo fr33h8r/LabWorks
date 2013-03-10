@@ -16,7 +16,6 @@ void main()
 	char* citizenship[7] = {"UKR", "RUS", "BLR", "BLG",	"MLD", "GEO"};
 	srand((unsigned)time(NULL));
 	const int count = 3265;
-	//Student first = {"ukr", 1, 4.5};
 	Student students[count];
 
 	for (int i = 0; i < count; i++)
