@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9279D236-BE99-4EB2-90D7-6F1E150221C8}</ProjectGuid>
+    <ProjectGuid>{DC31E8A5-A0BC-41CE-A2C0-722B5A24FF34}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Part5LogicOps</RootNamespace>
+    <RootNamespace>LabWork1</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
